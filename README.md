@@ -22,9 +22,15 @@ Las hipótesis que se han planteado han sido las siguientes:
 
 Estas hipótesis servirán como guía durante el EDA y podrán ser confirmadas o descartadas a partir de los datos.
 
+## **Tecnologías usadas (librerías, herramientas, lenguajes)
+## **Estructura del repositorio**
+## **Principales conclusiones**
+
+
+
 ## **Resultados**
 
-## **Instrucciones de ejecución**
+## **Instrucciones de reproducción**
 
 Para la elaboración del EDA hemos creado 3 ramas diferentes en función de los miembros del equipo. Para su funcionalidad, cada persona ha hecho un archivo main.ipynb para la ejecución de su código. La distribución ha sido la siguiente:
 
