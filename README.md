@@ -118,7 +118,7 @@ Presentación
 - Seleccionar gráficos clave
 - Mantener enfoque ejecutivo (sin código)
 
-### *3. Alejandro:* https://github.com/alejandroarbide
+### *3. Alejandro:* https://github.com/alejandroarbide | https://www.linkedin.com/in/alejandro-arbide-b1672a2a3
 
 **Semana 2**
 
